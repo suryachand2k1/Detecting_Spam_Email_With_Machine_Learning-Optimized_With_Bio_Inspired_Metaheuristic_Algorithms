@@ -20,8 +20,6 @@ Steps involved:
 1. A classifier is trained offline with spam and non-spam messages.
 2. The trained model is then deployed as a web service to serve users.
 
-## Application Flow Diagram
-![Example screenshot](./Image.jpg)
 
 ## Technologies
 * Python - version 3.7
@@ -79,9 +77,5 @@ def predict():
 
 ## Features
 * The model classifier classifies the input message in spam or non-spam with an accuracy of 93% 
-
-The end product looks like this: 
-![Example screenshot](/Detecting Spam Email With Machine Learning Optimized With Bio-Inspired Metaheuristic Algorithms/Detecting Spam Email With Machine Learning Optimized With Bio-Inspired Metaheuristic Algorithms/Capture1.PNG)
-![Example screenshot](./Capture2.PNG)
 
 
