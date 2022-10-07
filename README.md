@@ -81,7 +81,7 @@ def predict():
 * The model classifier classifies the input message in spam or non-spam with an accuracy of 93% 
 
 The end product looks like this: 
-![Example screenshot](.Detecting Spam Email With Machine Learning Optimized With Bio-Inspired Metaheuristic Algorithms/Detecting Spam Email With Machine Learning Optimized With Bio-Inspired Metaheuristic Algorithms/Capture1.PNG)
+![Example screenshot](./Detecting Spam Email With Machine Learning Optimized With Bio-Inspired Metaheuristic Algorithms/Detecting Spam Email With Machine Learning Optimized With Bio-Inspired Metaheuristic Algorithms/Capture1.PNG)
 ![Example screenshot](./Capture2.PNG)
 
 
